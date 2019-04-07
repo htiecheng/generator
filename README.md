@@ -27,8 +27,8 @@
 # 在resources/config中添加generateConfig.xml
 
 # 使用插件运行
-## 进入配置
+* 进入配置
 
-## 设置maven
+* 设置maven
 
-## 双击运行插件
+* 双击运行插件
